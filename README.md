@@ -39,15 +39,17 @@ brew install python-tk@3.12
 python PaintBoard.py
 ```
 
+
+
+https://github.com/user-attachments/assets/af4443d5-93e6-4d25-bcc4-302315d97f52
+
+
+
 ## 2. Tkinter를 이용한 간단한 타이핑 게임
 - 난이도: 중상
 - 핵심 개념: Tkinter, 문자열 처리, 이벤트 처리, 랜덤 모듈
   
 <img width="404" alt="스크린샷 2024-07-23 오후 5 27 14" src="https://github.com/user-attachments/assets/b4ff7c69-aa6c-4e28-9e52-929da5ea5035">
-
-https://github.com/user-attachments/assets/d227ad86-af4f-42af-b5c4-aa29ce0bd2bc
-
-
 
 ### 기능
 1. **게임 시작**
