@@ -18,4 +18,3 @@ brew install python-tk@3.12
 ```shell
 python PaintBoard.py
 ```
-햐
