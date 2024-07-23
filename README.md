@@ -202,6 +202,7 @@ python EnglishVocaGUI.py
 
 ### 기능
 
+
 ### 실행방법
 1. 가상환경 실행
 ```shell
@@ -214,6 +215,11 @@ pip install requirements.txt
 ```
 
 3. 실행
+GUI로 보고 싶은 경우,
 ```shell
 python SolvingMathGUI.py
+```
+그냥 터미널에서 실행하고 싶은 경우,
+```shell
+python SolvingMath.py
 ```
