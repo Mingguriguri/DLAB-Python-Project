@@ -157,6 +157,13 @@ python Calender.py
 - 난이도: 중
 - 핵심개념: 사용자 입력 검증, 파일 입출력, 랜덤 선택, 딕셔너리
 
+<img width="400" alt="스크린샷 2024-07-23 오후 6 45 10" src="https://github.com/user-attachments/assets/d3e8dab5-9687-4e3c-a167-b0f1c1a1b4ca">
+
+
+https://github.com/user-attachments/assets/3a458136-a569-454a-9803-4840b792f413
+
+
+
 ### 기능
 1. 영단어 추가
 
@@ -199,6 +206,13 @@ python EnglishVocaGUI.py
 ## 6. 수학문제 풀이 프로그램
 - 난이도: 상
 - 핵심개념: Tkinter, 함수
+
+<img width="600" alt="스크린샷 2024-07-23 오후 7 08 58" src="https://github.com/user-attachments/assets/28908fe4-b71c-4781-846d-0518aa50c3a4">
+<img width="250" alt="스크린샷 2024-07-23 오후 7 08 32" src="https://github.com/user-attachments/assets/26f3893c-a10e-4f9d-b3f2-23e34edd2e3e">
+
+https://github.com/user-attachments/assets/4b9f02ee-2dc2-4013-a259-6523dae380b4
+
+https://github.com/user-attachments/assets/a7b0f3db-c65d-46d4-9c13-9f1b4c42a5fe
 
 ### 기능
 주요 기능
