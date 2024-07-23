@@ -15,7 +15,10 @@ brew install python-tk@3.12
 - 난이도: 상
 - 핵심 개념: Tkinter, 이벤트 처리, 함수
 
-<img width="718" alt="스크린샷 2024-07-23 오후 5 18 48" src="https://github.com/user-attachments/assets/75140761-d1ca-4019-9c28-4a9296382f4c">
+<img width="400" alt="스크린샷 2024-07-23 오후 5 18 48" src="https://github.com/user-attachments/assets/75140761-d1ca-4019-9c28-4a9296382f4c">
+
+https://github.com/user-attachments/assets/ad903e14-b0e7-4f3a-8e7a-4ba0015bbdb2
+
 
 
 ### 기능
@@ -39,17 +42,14 @@ brew install python-tk@3.12
 python PaintBoard.py
 ```
 
-
-
-https://github.com/user-attachments/assets/af4443d5-93e6-4d25-bcc4-302315d97f52
-
-
-
 ## 2. Tkinter를 이용한 간단한 타이핑 게임
 - 난이도: 중상
 - 핵심 개념: Tkinter, 문자열 처리, 이벤트 처리, 랜덤 모듈
   
-<img width="404" alt="스크린샷 2024-07-23 오후 5 27 14" src="https://github.com/user-attachments/assets/b4ff7c69-aa6c-4e28-9e52-929da5ea5035">
+<img width="400" alt="스크린샷 2024-07-23 오후 5 27 14" src="https://github.com/user-attachments/assets/b4ff7c69-aa6c-4e28-9e52-929da5ea5035">
+
+https://github.com/user-attachments/assets/2146fa4f-1f63-491b-b069-14a150a57e4e
+
 
 ### 기능
 1. **게임 시작**
@@ -83,7 +83,9 @@ python TypingGame.py
 - 난이도: 중
 - 핵심 개념: Tkinter, 함수, 조건문
 
-<img width="476" alt="스크린샷 2024-07-23 오후 5 40 22" src="https://github.com/user-attachments/assets/24cac5de-1bc4-49df-8dc8-46dc09bcae4d">
+<img width="400" alt="스크린샷 2024-07-23 오후 5 40 22" src="https://github.com/user-attachments/assets/24cac5de-1bc4-49df-8dc8-46dc09bcae4d">
+
+https://github.com/user-attachments/assets/af4443d5-93e6-4d25-bcc4-302315d97f52
 
 
 ### 기능
@@ -108,15 +110,18 @@ python TypingGame.py
 python Calculator.py
 ```
 
-## Tkinter를 이용한 간단한 일정 관리 어플리케이션
+## 4. Tkinter를 이용한 간단한 일정 관리 어플리케이션
 - 난이도: 상
 - 핵심 개념: Tkinter, 리스트, 딕셔너리, 함수, 파일 입출력
 
-<img width="516" alt="스크린샷 2024-07-23 오후 5 51 55" src="https://github.com/user-attachments/assets/0f3d4fdc-73a8-47bb-94e5-e3235f5150ad">
+<img width="400" alt="스크린샷 2024-07-23 오후 5 51 55" src="https://github.com/user-attachments/assets/0f3d4fdc-73a8-47bb-94e5-e3235f5150ad">
+
+https://github.com/user-attachments/assets/564e6772-c0fe-44e6-909b-65f09161b6d4
 
 
 ### 기능
 1. **일정 관리 기능**
+
 - 일정 추가: 사용자가 입력한 날짜와 일정을 추가할 수 있습니다. 날짜와 일정이 모두 입력되지 않은 경우 경고 메시지를 표시합니다.
 - 일정 편집: 선택한 일정을 수정할 수 있습니다. '일정 편집' 버튼을 눌러 새로운 일정을 입력하면 기존 일정이 수정됩니다.
 - 일정 삭제: 선택한 일정을 삭제할 수 있습니다. 삭제할 일정을 선택하지 않은 경우 경고 메시지를 표시합니다.
