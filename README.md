@@ -11,6 +11,17 @@
 brew install python-tk@3.12
 ```
 
+아래 수학문제 풀이 관련 파이썬 파일을 실행하고 싶은 경우 가상환경 실행하고 패키지 설치 필요
+1. 가상환경 실행
+```shell
+source dlab/bin/activate
+```
+
+2. 패키지 설치
+```shell
+pip install requirements.txt
+```
+
 ## 1. Tkinter를 이용한 간단한 그림판 어플리케이션
 - 난이도: 상
 - 핵심 개념: Tkinter, 이벤트 처리, 함수
@@ -183,4 +194,26 @@ python Calender.py
 ### 실행방법
 ```shell
 python EnglishVocaGUI.py
+```
+
+## 6. 수학문제 풀이 프로그램
+- 난이도: 상
+- 핵심개념: Tkinter, 함수
+
+### 기능
+
+### 실행방법
+1. 가상환경 실행
+```shell
+source dlab/bin/activate
+```
+
+2. 패키지 설치
+```shell
+pip install requirements.txt
+```
+
+3. 실행
+```shell
+python SolvingMathGUI.py
 ```
