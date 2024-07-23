@@ -15,6 +15,9 @@ brew install python-tk@3.12
 - 난이도: 상
 - 핵심 개념: Tkinter, 이벤트 처리, 함수
 
+<img width="718" alt="스크린샷 2024-07-23 오후 5 18 48" src="https://github.com/user-attachments/assets/75140761-d1ca-4019-9c28-4a9296382f4c">
+
+
 ### 기능
 > 마우스 드래그로 그림 그리기, 색상 선택 기능, 지우개 기능, 캔버스 초기화 기능, 브러시 크기 조절 기능
 1. **그림 그리기**
@@ -39,6 +42,12 @@ python PaintBoard.py
 ## 2. Tkinter를 이용한 간단한 타이핑 게임
 - 난이도: 중상
 - 핵심 개념: Tkinter, 문자열 처리, 이벤트 처리, 랜덤 모듈
+  
+<img width="404" alt="스크린샷 2024-07-23 오후 5 27 14" src="https://github.com/user-attachments/assets/b4ff7c69-aa6c-4e28-9e52-929da5ea5035">
+
+https://github.com/user-attachments/assets/d227ad86-af4f-42af-b5c4-aa29ce0bd2bc
+
+
 
 ### 기능
 1. **게임 시작**
@@ -72,6 +81,9 @@ python TypingGame.py
 - 난이도: 중
 - 핵심 개념: Tkinter, 함수, 조건문
 
+<img width="476" alt="스크린샷 2024-07-23 오후 5 40 22" src="https://github.com/user-attachments/assets/24cac5de-1bc4-49df-8dc8-46dc09bcae4d">
+
+
 ### 기능
 1. **기본적인 계산 기능**
 - 덧셈, 뺄셈, 곱셈, 나눗셈: 기본적인 산술 연산을 수행할 수 있습니다.
@@ -97,6 +109,9 @@ python Calculator.py
 ## Tkinter를 이용한 간단한 일정 관리 어플리케이션
 - 난이도: 상
 - 핵심 개념: Tkinter, 리스트, 딕셔너리, 함수, 파일 입출력
+
+<img width="516" alt="스크린샷 2024-07-23 오후 5 51 55" src="https://github.com/user-attachments/assets/0f3d4fdc-73a8-47bb-94e5-e3235f5150ad">
+
 
 ### 기능
 1. **일정 관리 기능**
